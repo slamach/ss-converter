@@ -1,6 +1,5 @@
 # Number system converter
-Just a simple number system converter.
-
+Just a simple number system converter.  
 Works only with positive start numbers!  
 
 
